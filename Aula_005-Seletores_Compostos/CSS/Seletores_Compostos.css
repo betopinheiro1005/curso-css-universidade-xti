@@ -1,0 +1,12 @@
+div em{
+    color: red;
+}
+div> em{
+    text-decoration: underline;
+}
+p + p {
+    color: #0000CC;
+}
+p + h2 {
+    color: #FFCC33;
+}

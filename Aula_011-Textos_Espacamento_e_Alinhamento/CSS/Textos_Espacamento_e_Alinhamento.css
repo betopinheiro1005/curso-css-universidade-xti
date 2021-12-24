@@ -1,0 +1,10 @@
+p{
+    letter-spacing: 2px;
+    word-spacing: 10px;
+    line-height: 10px;
+    text-align: justify;
+    text-indent: -20px;
+}
+span {
+    vertical-align: sub;
+}

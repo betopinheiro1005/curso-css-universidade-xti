@@ -1,0 +1,33 @@
+ul#menu > li {
+    float: left;
+}
+ul#menu > li > ul {
+    left: -2px;
+    top: 25px;
+}
+ul {
+    padding-left: 25%;
+    padding-right: 25%;
+    list-style: none;
+}
+li {
+    border: 1px solid black;
+    width: 120px;
+    padding: 3px;
+    position: relative;
+}
+li:hover {
+    background-color: black;
+    color: white;
+}
+/*sub menu*/
+li > ul {
+    position: absolute;
+    left: 126px;
+    top: -2px;
+    color: black;
+    display: none;
+}
+li:hover > ul {
+    display: block;
+}

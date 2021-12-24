@@ -1,0 +1,34 @@
+div h1:first-child{ /*primeiro filho*/
+    color: red;
+}
+a:link { /* Não visitados */
+    color: red;
+}
+a:visited{ /*visitados*/
+    color: green;
+}
+input[type="text"]:focus { /* Quando Tiver Foco*/
+    background-color: yellow;
+}
+label:hover { /* sobre o elemento*/
+    background-color: yellow;
+}
+a:active { /* Quando estiver Ativado */
+    color: green;
+}
+a:lang(en) { /* linguagem en */
+    color: gray;
+}
+p:first-line { /* 1º linha */
+    color: gray;
+}
+p:first-letter { /* tamanho da 1º letra */
+    color: black;
+    font-size: 40px;
+}
+p:after { /* no final */
+    content: "FIM";
+}
+p:before { /* no inicio */
+    content: "Inicio";
+}

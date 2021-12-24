@@ -1,0 +1,46 @@
+
+<html>
+    <head>
+        <title>Menu DropDown com jQuery</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" type="text/css" href="CSS/Menu_DropDown_com_jQuery.css" media="all" />
+        <script type="text/javascript" src="js/jquery-2.1.1.js"> </script>
+        <script type="text/javascript">
+            $(document).ready(function() {
+   $("#menu li ul").hide();
+   $("#menu li").hover(
+            function(){$(this).children("ul").show();},
+            function(){$(this).children("ul").hide();}
+            );
+});
+
+
+        </script>
+    </head>
+    <body>
+        <ul id="menu">
+            <li>Home</li>
+            <li>Solução</li>
+            <li>Indústria
+                 <ul>
+                    <li>Financeira</li>
+                    <li>Comunicação</li>
+                    <li>Educação</li>
+                    <li>Energia
+                    <ul>
+                        <li>Elétrica</li>
+                        <li>Eólica</li>
+                        <li>Hidráulica</li>
+                        <li>Fóssil</li>
+                        <li>Solar</li>
+                    </ul>
+                    </li>
+                    <li>Governo</li>
+                </ul>
+            </li>
+            <li>Cases</li>
+            <li>Contato</li>
+        </ul>
+    </body>
+</html>

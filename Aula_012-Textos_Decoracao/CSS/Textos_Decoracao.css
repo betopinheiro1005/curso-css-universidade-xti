@@ -1,0 +1,5 @@
+p{
+    text-decoration: line-through underline overline;
+    text-transform: capitalize; /*1º letra em caixa auta */
+    text-transform: lowercase; /*1º letra em caixa baixa */
+}

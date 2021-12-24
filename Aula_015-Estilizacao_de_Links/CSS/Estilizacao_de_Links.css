@@ -1,0 +1,31 @@
+/*a {
+    text-decoration: none;  sem sublinhado
+    color: #000;
+    background-color: #DDDDDD;
+    border: 1px solid black;
+    width: 130px;
+    display: block;
+    padding: 3px 5px;
+}
+a:hover {
+    text-decoration: underline;
+    color: #DDDDDD;
+    background-color: #000; 
+}*/
+a[href^="http:"] {
+    background-color: #CCCCCC;
+}
+a[href^="maito:"] {
+    background-color: #FFCC33;
+}
+a[href$=".zip"] {
+    background-color: #CC0000;
+}
+a img {
+    border: none;
+}
+
+/*a:link  estado inicial
+a:visited  já foi visitado
+a:houver  passo o mouse sobre
+a:active  quando clica sobre*/

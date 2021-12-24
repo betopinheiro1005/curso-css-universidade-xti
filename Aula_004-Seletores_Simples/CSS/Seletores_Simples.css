@@ -1,0 +1,27 @@
+* {
+    color: #006699;
+}
+p {
+    color: #0000CC;
+}
+.destaque {
+    color: #CC0000;
+}
+.detalhe {
+    text-decoration: underline;
+}
+#introdução {
+    background-color: #FFCC33;
+}
+em[title=Empresa]{ //
+    color: #336600;
+    font-size: 30px;
+}
+em[title~=Empresa]{ //
+    color: #336600;
+    font-size: 40px;
+}
+em[title|=Empresa]{
+    color: #336600;
+    font-size: 40px;
+}

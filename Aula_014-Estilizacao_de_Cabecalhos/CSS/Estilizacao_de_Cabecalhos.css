@@ -1,0 +1,10 @@
+h1 {
+    border-bottom: 1px solid black;
+    border-top: 1px dotted black;
+    background-color: #CCCCCC;
+    border-left: 10px solid black;
+    padding-left: 46px; 
+    background-image: url(img/css.png);
+    background-repeat: no-repeat;
+    background-position: 5px
+}

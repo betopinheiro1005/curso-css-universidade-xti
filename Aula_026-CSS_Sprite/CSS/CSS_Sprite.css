@@ -1,0 +1,15 @@
+.facebook {
+    background: url(../../CSS/img/icones.jpg) -76px -11px;
+    height: 75px;
+    width: 77px;
+}
+.google {
+    background: url(../../CSS/img/icones.jpg) -3px -11px;
+    height: 75px;
+    width: 77px;
+}
+.twitter {
+    background: url(../../CSS/img/icones.jpg) -159px -11px;
+    height: 75px;
+    width: 77px;
+}

@@ -1,0 +1,16 @@
+body {
+    background-image: url(../CSS/img/Lighthouse.jpg);
+    background-repeat: no-repeat; 
+}
+div {
+    width: 320px;
+    height: 320px;
+    border: 2px solid black;
+/*    background-color: #6699FF;
+    background-image: url(../CSS/img/Lighthouse.jpg);
+    background-repeat: no-repeat-x;
+    background-attachment: fixed;
+    background-position: 20px 90px;*/
+    
+    background: #6699FF url(../CSS/img/Lighthouse.jpg) no-repeat-x fixed 20px 90px;
+}

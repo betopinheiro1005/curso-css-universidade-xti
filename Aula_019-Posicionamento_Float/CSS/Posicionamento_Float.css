@@ -1,0 +1,24 @@
+h1 , h2, p {
+    border: 1px solid black;
+    width: 200px;
+    float: left;
+}
+#um {
+    clear: both; /* limpar os dois lados*/
+}
+#dois {
+    clear: both; /* limpar os dois lados*/
+}
+li {
+   float: left; 
+   width: 50px;
+}
+p{
+    background-color: #DDDDDD;
+}
+span {
+    border: 1px solid black;
+    width: 40%;
+    float: right;
+    background-color: white;
+}

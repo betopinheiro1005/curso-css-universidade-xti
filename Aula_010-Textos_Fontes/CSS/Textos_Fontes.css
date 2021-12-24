@@ -1,0 +1,12 @@
+p {
+/*    font-family: "lucida grande",
+                 "lucida sans",
+                 verdana,
+                 sans-serif;
+    font-style: italic;
+    font-weight: 450; 100 a 900 bold
+    font-variant: small-caps;
+    font-size: 6px;*/
+    
+    font: italic small-caps bold 10px/150% verdana, sans-serif;
+}
