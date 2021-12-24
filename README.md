@@ -33,4 +33,3 @@ Aula 24 - Layout com 3 colunas
 Aula 25 - Menus com CSS  
 Aula 26 - CSS Sprite  
 Aula 27 - Bordas arredondadas e sombreamento com css  
-Aula 28 - Validação de CSS  
