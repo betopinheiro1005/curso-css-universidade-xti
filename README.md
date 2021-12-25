@@ -1,8 +1,7 @@
 # Curso de CSS 3 
 ## Universidade XTI (Ricardo Lopes Costa)  
 
-### Link dos vídeos  
-<https://www.youtube.com/watch?v=uL4bBU7QbE8&list=PLxQNfKs8YwvEW2eRKJriLWvTwfsjSt7Wx>
+### [Vídeos do curso](https://www.youtube.com/watch?v=uL4bBU7QbE8&list=PLxQNfKs8YwvEW2eRKJriLWvTwfsjSt7Wx)
 
 ### Lista de aulas  
 
